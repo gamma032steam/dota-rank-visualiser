@@ -1,0 +1,8 @@
+{
+  "name": "dota-rank-visualiser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gamma032steam/dota-rank-visualiser.git",
+  "author": "gamma032steam <gamma032@gmail.com>",
+  "license": "MIT"
+}
